@@ -1,5 +1,9 @@
 <?php
+
+	ob_start();
+	
 	$autoload = function($class){
+		$class = str_replace('\\', '/', $class);
 		include($class.'.php');
 	};
 
@@ -7,4 +11,7 @@
 
 	$app = new Application();
 	$app->executar();
+
+	ob_end_flush();
+
 ?>
