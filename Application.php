@@ -1,6 +1,6 @@
 <?php
 	
-	define('PATH_TO_ROOT','http://localhost:8080/AmbienteTeste/mvc/');
+	define('PATH_TO_ROOT','https://testemvc.franklinhenrique.com/');
 	class Application
 	{
 		public function executar(){
