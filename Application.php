@@ -1,4 +1,10 @@
 <?php
+	use Controllers\HomeController;
+	use Controllers\Processa2Controller;
+	use Controllers\Processa3Controller;
+	use Controllers\Processa4Controller;
+	use Controllers\Processa7Controller;
+	use Controllers\ProcessaController;
 	
 	define('PATH_TO_ROOT','http://localhost:8080/AmbienteTeste/mvc/');
 	class Application
@@ -9,7 +15,7 @@
             $page = $url;
 			$url.="Controller";
 			if(file_exists('Controllers/'.$url.'.php')){
-				$className = 'Controllers\\'.$url;
+				$className = "Controllers\\$url";
 				$controler = new $className($page);
 				$controler->executar();
 			}else{

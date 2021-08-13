@@ -1,6 +1,6 @@
 <?php
 	namespace Controllers;
-	class HomeController extends Controller			
+	class Processa2Controller extends Controller			
 	{
 		public function __construct($page){
 			$this->view = new \Views\MainView("$page");

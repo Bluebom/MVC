@@ -8,4 +8,15 @@
     <title><?= self::titulo?> </title>
 </head>
 <body>
-    <h1>Header</h1>
+    <header>
+        <div class="center">
+            <nav>
+                <?php foreach (self::menuItems as $value): ?>
+                    <a href="<?= strtolower($value);?>"><?= $value?> </a>
+                <?php endforeach ?>
+            </nav>
+        </div>
+    </header>
+    <section class='content'>
+
+    
