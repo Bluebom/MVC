@@ -1,8 +1,8 @@
 <?php
 	namespace Views;
 
-    define('PATH_TO_PAGES','https://testemvc.franklinhenrique.com/Views/pages/');
-	define('PATH_TO_ASSETS','https://testemvc.franklinhenrique.com/Views/pages/assets/');
+    define('PATH_TO_PAGES','http://localhost:8080/AmbienteTeste/mvc/Views/pages/');
+	define('PATH_TO_ASSETS','http://localhost:8080/AmbienteTeste/mvc/Views/pages/assets/');
 
 	class MainView
 	{
