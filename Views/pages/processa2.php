@@ -5,7 +5,7 @@
       cellpadding="0"
       cellspacing="0"
       width="600"
-      style="border: 1px solid black; text-align: center; margin: 0 auto;"
+      style="border: 0px solid black; text-align: center; margin: 0 auto; border-radius: 1rem; overflow: hidden; box-shadow: 0 0px 8px #000000;"
     >
       <td
         align="center"
@@ -15,7 +15,7 @@
           background-size: cover;
           background-repeat: no-repeat;
           width: 600px;
-          height: 12rem;
+          height: 8rem;
         "
         ;
       >
@@ -67,11 +67,11 @@
               </td>
               <td align="right" style="padding: 5px 2%">
                 <table border="0" cellpadding="0" cellspacing="0">
-                  <tr>
+                <tr>
                     <td>
                       <a href="https://www.youtube.com/" target="_blank">
                         <img
-                          src="https://www.unidentis.com.br/assets/img/Vector.png"
+                          src="https://www.unidentis.com.br/assets/img/Vectorsite.png"
                           alt="Twitter"
                           height="25"
                           style="display: block"
@@ -85,13 +85,30 @@
                     <td>
                       <a href="https://www.instagram.com/" target="_blank">
                         <img
-                          src="https://www.unidentis.com.br/assets/img/Vector2.png"
+                          src="https://www.unidentis.com.br/assets/img/Vectorinsta.png"
                           alt="Facebook"
                           height="28"
                           style="display: block"
                           border="0"
                         />
                       </a>
+                    </td>
+                    <td style="font-size: 0; line-height: 0" width="20">
+                      &nbsp;
+                    </td>
+                    <td>
+                      <a href="https://www.instagram.com/" target="_blank">
+                        <img
+                          src="https://www.unidentis.com.br/assets/img/Vectorface.png"
+                          alt="Facebook"
+                          height="28"
+                          style="display: block"
+                          border="0"
+                        />
+                      </a>
+                    </td>
+                    <td style="font-size: 0; line-height: 0" width="20">
+                      &nbsp;
                     </td>
                   </tr>
                 </table>
