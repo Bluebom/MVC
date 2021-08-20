@@ -22,7 +22,7 @@
       <tr>
         <tr>
           <td>
-            <h2 style="text-transform: uppercase; text-align: center; line-height: 1.25rem; font-size: .9rem; color: #023bbf; font-family: 'Arial Black'; padding: 1rem 3rem 0 3rem;">Proposta {Status proposta}</h2>
+            <h2 style="text-align: center; font-size: 1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif; margin: 1rem 30px 0 30px;">Proposta {Status proposta}</h2>
           </td>
         </tr>
         <!-- <tr>
@@ -39,22 +39,22 @@
             width="90%"
           >
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center; color: #606060;">
                 <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">nome:</span> exemplo nome
               </td>
             </tr>
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center; color: #606060;">
                 <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">cpf:</span> 999.999.999-99
               </td>
             </tr>
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center; color: #606060;">
                 <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">vendedor:</span> exemplo nome
               </td>
             </tr>
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center; color: #606060;">
                 <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">canelamento informado:</span> cancelamento
               </td>
             </tr>
@@ -63,7 +63,7 @@
       </tr>
       <tr>
         <td>
-          <h3 style="letter-spacing: -.025rem; color: #2b2b2b; text-transform: uppercase ;text-align: center; padding: 0 10px; line-height: 1.25rem; font-size: .9rem; font-family: 'Arial Black', Helvetica, sans-serif;margin: .5rem 0;">Agradecemos a sua escolha!</h3>
+          <h3 style="letter-spacing: -.025rem; color: #606060; text-transform: uppercase ;text-align: center; padding: 0 10px; line-height: 1.25rem; font-size: .9rem; font-family: 'Arial Black', Helvetica, sans-serif;margin: .5rem 0;">Agradecemos a sua escolha!</h3>
         </td>
       </tr>
       <tr>
@@ -86,7 +86,7 @@
                 <table border="0" cellpadding="0" cellspacing="0">
                   <tr>
                     <td>
-                      <a href="https://www.youtube.com/" target="_blank">
+                      <a href="https://www.unidentis.com.br/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorsite.png"
                           alt="Twitter"
@@ -100,7 +100,7 @@
                       &nbsp;
                     </td>
                     <td>
-                      <a href="https://www.instagram.com/" target="_blank">
+                      <a href="https://www.instagram.com/unidentisoficial/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorinsta.png"
                           alt="Facebook"
@@ -114,7 +114,7 @@
                       &nbsp;
                     </td>
                     <td>
-                      <a href="https://www.instagram.com/" target="_blank">
+                      <a href="https://www.facebook.com/unidentisoficial/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorface.png"
                           alt="Facebook"

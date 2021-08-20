@@ -22,7 +22,7 @@
       <tr>
         <tr>
           <td>
-            <h2 style="text-transform: uppercase; text-align: center; line-height: 1.25rem; font-size: .9rem; color: #023bbf; font-family: 'Arial Black'; padding: 1rem 3rem 0 3rem;">acesse nosso sistema com os dados a seguir para concluir o cadastro da proposta</h2>
+            <h2 style="text-align: center; font-size: 1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif; margin: 1rem 30px 0 30px;">acesse nosso sistema com os dados a seguir para concluir o cadastro da proposta</h2>
           </td>
         </tr>
         <!-- <tr>
@@ -39,20 +39,18 @@
             width="90%"
           >
             <tr style="height: 2.5rem; width: 100%;">
-              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center; color: #606060;">
                 <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">email:</span> exemplo email
               </td>
             </tr>
             <tr style="height: 2.5rem; width: 100%;">
-              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center; color: #606060;">
                 <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">senha:</span> exemplo senha
               </td>
             </tr>
             <tr style="height: 3rem; align-items: center; width: 100%;">
               <td>
-                <a href="#" style="text-decoration: none; color: none;">
-                  <button style="font-family: Arial, Helvetica, sans-serif;text-transform: uppercase; font-weight: 500; padding: 6px 14px; border-radius: .5rem; border: none; background-color: #023bbf; color: #ffffff; line-height: 1.15rem; font-size: .7rem; cursor: pointer; box-shadow: 0 0 .15rem black; text-align: center;">Concluir Proposta</button>
-                </a>
+                <a href="#" style="text-decoration: none; color: none;font-family: Arial, Helvetica, sans-serif;text-transform: uppercase; font-weight: 500; padding: 6px 14px; border-radius: .5rem; border: none; background-color: #023bbf; color: #ffffff; line-height: 1.15rem; font-size: .7rem; cursor: pointer; box-shadow: 0 0 .15rem black; text-align: center;">Concluir Proposta</a>
               </td>
             </tr>
           </table>
@@ -60,7 +58,7 @@
       </tr>
       <tr>
         <td>
-          <h3 style="letter-spacing: -.025rem; color: #2b2b2b; text-transform: uppercase ;text-align: center; padding: 0 10px; line-height: 1.25rem; font-size: .9rem; font-family: 'Arial Black', Helvetica, sans-serif;margin: .5rem 0;">Agradecemos a sua escolha!</h3>
+          <h3 style="letter-spacing: -.025rem; color: #606060; text-transform: uppercase ;text-align: center; padding: 0 10px; line-height: 1.25rem; font-size: .9rem; font-family: 'Arial Black', Helvetica, sans-serif;margin: .5rem 0;">Agradecemos a sua escolha!</h3>
         </td>
       </tr>
       <tr>
@@ -83,7 +81,7 @@
                 <table border="0" cellpadding="0" cellspacing="0">
                   <tr>
                     <td>
-                      <a href="https://www.youtube.com/" target="_blank">
+                      <a href="https://www.unidentis.com.br/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorsite.png"
                           alt="Twitter"
@@ -97,7 +95,7 @@
                       &nbsp;
                     </td>
                     <td>
-                      <a href="https://www.instagram.com/" target="_blank">
+                      <a href="https://www.instagram.com/unidentisoficial/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorinsta.png"
                           alt="Facebook"
@@ -111,7 +109,7 @@
                       &nbsp;
                     </td>
                     <td>
-                      <a href="https://www.instagram.com/" target="_blank">
+                      <a href="https://www.facebook.com/unidentisoficial/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorface.png"
                           alt="Facebook"
