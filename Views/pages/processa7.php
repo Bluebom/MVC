@@ -22,7 +22,7 @@
       <tr>
         <tr>
           <td>
-            <h2 style="text-transform: uppercase; text-align: center; line-height: 1.5rem; font-size: 1rem; color: #023bbf; font-family: Verdana; font-weight: bolder; padding: 1rem 3rem 0 3rem;">Proposta {Status proposta}</h2>
+            <h2 style="text-transform: uppercase; text-align: center; line-height: 1.25rem; font-size: .9rem; color: #023bbf; font-family: 'Arial Black'; padding: 1rem 3rem 0 3rem;">Proposta {Status proposta}</h2>
           </td>
         </tr>
         <!-- <tr>
@@ -32,30 +32,30 @@
         </tr> -->
         <td bgcolor="#ffffff" style="padding: 1rem 30px">
           <table
-            style="background-color: #f5f5f5; border-radius: 1rem; box-shadow: 0 0 .15rem black; font-family: Arial, Helvetica, sans-serif;margin: 0 auto;"
+            style="background-color: #f5f5f5; border-radius: 1rem; box-shadow: 0 0 .15rem black; font-family: Arial, Helvetica, sans-serif; margin: 0 auto; padding: .5rem 0;"
             border="0"
             cellpadding="0"
             cellspacing="0"
             width="90%"
           >
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.5rem; font-size: 1rem; text-align: center;">
-                <span style="text-transform: uppercase; font-weight: bold; color: #023bbf;">nome:</span> exemplo nome
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+                <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">nome:</span> exemplo nome
               </td>
             </tr>
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.5rem; font-size: 1rem; text-align: center;">
-                <span style="text-transform: uppercase; font-weight: bold; color: #023bbf;">cpf:</span> 999.999.999-99
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+                <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">cpf:</span> 999.999.999-99
               </td>
             </tr>
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.5rem; font-size: 1rem; text-align: center;">
-                <span style="text-transform: uppercase; font-weight: bold; color: #023bbf;">vendedor:</span> exemplo nome
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+                <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">vendedor:</span> exemplo nome
               </td>
             </tr>
             <tr style="height: 3rem; width: 100%;">
-              <td style="line-height: 1.5rem; font-size: 1rem; text-align: center;">
-                <span style="text-transform: uppercase; font-weight: bold; color: #023bbf;">canelamento informado:</span> cancelamento
+              <td style="line-height: 1.65rem; font-size: 1.15rem; text-align: center;">
+                <span style="font-size: 1.1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif;">canelamento informado:</span> cancelamento
               </td>
             </tr>
           </table>
@@ -63,17 +63,17 @@
       </tr>
       <tr>
         <td>
-          <h3 style="letter-spacing: -.025rem; color: #2b2b2b; text-transform: uppercase ;text-align: center; padding: 0 10px; font-size: 1rem; font-family: Arial, Helvetica, sans-serif;margin: .5rem 0;">Agradecemos a sua escolha!</h3>
+          <h3 style="letter-spacing: -.025rem; color: #2b2b2b; text-transform: uppercase ;text-align: center; padding: 0 10px; line-height: 1.25rem; font-size: .9rem; font-family: 'Arial Black', Helvetica, sans-serif;margin: .5rem 0;">Agradecemos a sua escolha!</h3>
         </td>
       </tr>
       <tr>
-        <td bgcolor="#2b2b2b">
+        <td bgcolor="#023bbf">
           <table border="0" cellpadding="0" cellspacing="0" width="100%">
             <tr>
               <td
                 width="75%"
                 style="
-                  color: #ffffff;
+                  color: #f6f6f6;
                   font-family: Arial, sans-serif;
                   font-size: 14px;
                   padding: 5px 2%;
@@ -84,13 +84,13 @@
               </td>
               <td align="right" style="padding: 5px 2%">
                 <table border="0" cellpadding="0" cellspacing="0">
-                <tr>
+                  <tr>
                     <td>
                       <a href="https://www.youtube.com/" target="_blank">
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorsite.png"
                           alt="Twitter"
-                          height="25"
+                          height="20"
                           style="display: block"
                           border="0"
                         />
@@ -104,7 +104,7 @@
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorinsta.png"
                           alt="Facebook"
-                          height="28"
+                          height="20"
                           style="display: block"
                           border="0"
                         />
@@ -118,7 +118,7 @@
                         <img
                           src="https://www.unidentis.com.br/assets/img/Vectorface.png"
                           alt="Facebook"
-                          height="28"
+                          height="20"
                           style="display: block"
                           border="0"
                         />
