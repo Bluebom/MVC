@@ -1,7 +1,7 @@
 <?php
 	
 	// define('PATH_TO_ROOT','https://testemvc.franklinhenrique.com/');
-	define('PATH_TO_ROOT','http://localhost:8080/AmbienteTeste/mvc/');
+	define('PATH_TO_ROOT','http://192.168.10.146:8080/AmbienteTeste/mvc/');
 	
 	class Application
 	{

@@ -22,7 +22,7 @@
       <tr>
         <tr>
           <td>
-            <h2 style="text-align: center; font-size: 1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif; margin: 1rem 30px 0 30px;">ACESSE NOSSO SISTEMA CLICANDO NO BOTÃO A SEGUIR PARA CONCLUIR O CADASTRO DA PROPOSTA</h2>
+            <h2 style="text-align: center; font-size: 1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: 'Arial Black', 'Arial Bold', Arial, Helvetica, sans-serif; margin: 1rem 30px 0 30px;">ACESSE NOSSO SISTEMA CLICANDO NO BOTÃO A SEGUIR PARA CONCLUIR O CADASTRO DA PROPOSTA</h2>
           </td>
         </tr>
         <td bgcolor="#ffffff" style="padding: 1rem 30px">
@@ -35,9 +35,7 @@
           >
             <tr style="height: 3rem; align-items: center; width: 100%;">
               <td>
-                <a href="#" style="text-decoration: none; color: none;">
-                  <button style="font-family: Arial, Helvetica, sans-serif;text-transform: uppercase; font-weight: 500; padding: 6px 14px; border-radius: .5rem; border: none; background-color: #023bbf; color: #ffffff; line-height: 1.15rem; font-size: .7rem; cursor: pointer; box-shadow: 0 0 .15rem black; text-align: center;">Clique Aqui</button>
-                </a>
+                <a href="#" style="text-decoration: none; color: none;font-family: Arial, Helvetica, sans-serif;text-transform: uppercase; font-weight: 500; padding: 7px 14px; border-radius: .5rem; border: none; background-color: #023bbf; color: #ffffff; line-height: 1.15rem; font-size: .7rem; cursor: pointer; box-shadow: 0 0 .15rem black; text-align: center;">Clique Aqui</a>
               </td>
             </tr>
           </table>

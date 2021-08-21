@@ -22,7 +22,7 @@
       <tr>
         <tr>
           <td>
-            <h2 style="text-align: center; font-size: 1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: Arial, Helvetica, sans-serif; margin: 1rem 30px 0 30px;">Proposta {Status proposta}</h2>
+            <h2 style="text-align: center; font-size: 1rem; text-transform: uppercase; font-weight: bold; color: #023bbf;font-family: 'Arial Black', 'Arial Bold', Arial, Helvetica, sans-serif; margin: 1rem 30px 0 30px;">Proposta {Status proposta}</h2>
           </td>
         </tr>
         <!-- <tr>
