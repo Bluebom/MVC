@@ -6,3 +6,5 @@ Im studying Model View and Control project. This project will be my structure de
 - :up: atualização
 - :trollface: correção de bug
 - :checkered_flag: release
+
+composer require tinify/tinify

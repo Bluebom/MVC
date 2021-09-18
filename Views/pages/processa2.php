@@ -4,22 +4,23 @@
       border="0"
       cellpadding="0"
       cellspacing="0"
-      width="600"
+      width="500"
       style="border: 0px solid black; text-align: center; margin: 0 auto; border-radius: 1rem; overflow: hidden; box-shadow: 0 0px 8px #000000;"
     >
-      <td
-        align="center"
-        style="
-          background: url('https://www.unidentis.com.br/assets/img/bannerExemploEmail.png');
-          background-position: center;
-          background-size: cover;
-          background-repeat: no-repeat;
-          width: 600px;
-          height: 8rem;
-        "
-        ;
-      >
-      </td>
+    <td
+  align="center"
+  style="
+    background: url('https://www.unidentis.com.br/assets/img/fundoEmail.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 8rem;
+  "
+  ;
+>
+  <img src="https://www.unidentis.com.br/assets/img/logoAnsEmail.png" alt="Logo Unidentis com Ans" width="300px">
+</td>
       <tr>
         <tr>
           <td>

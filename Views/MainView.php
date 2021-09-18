@@ -12,7 +12,7 @@
 		private $footer;
 
 		const titulo = 'Projeto MVC';
-		const menuItems = array('Home','Processa','Processa2','Processa3','Processa4','Processa7');
+		const menuItems = array('Home','Processa','Processa2','Processa3','Processa4','Processa7', 'Processa8');
 
 		public function __construct($fileName,$header = 'header',$footer = 'footer'){
 			$this->fileName = $fileName;
